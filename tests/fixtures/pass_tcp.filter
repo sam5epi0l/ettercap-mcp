@@ -1,0 +1,3 @@
+if (ip.proto == TCP) {
+  msg("tcp packet\n");
+}
